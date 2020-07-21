@@ -1,0 +1,14 @@
+###### 环境
+cuda10.1+pytorch
+###### demo
+`python demo.py `
+###### train
+`python train.py`
+###### test
+`python test.py --tool got10k --database OTB2015`
+######test 的可选参数
+######tool:got10k/pysot
+######database:OTB2013/OTB2015/VOT2018/VOT2019
+######结果示意图
+
+
